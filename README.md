@@ -1,10 +1,13 @@
-# SIGINT-Study-Guide
+# Telecom-Study-Guide
 
 ---
 
 ## 1. TELECOM 
 
 ### Key Concepts
+![image](https://github.com/user-attachments/assets/baafaeca-655c-4acc-bd77-a7fb1cb54ce8)
+
+** GSM network infrastructure contains multiple nodes to move a phone signal from the user, across the network, and to another user.**
 
 - **IMSI (International Mobile Subscriber Identity)**  
   A unique identifier assigned to each mobile subscriber, stored on the SIM card. Used to authenticate users on cellular networks.
@@ -58,7 +61,9 @@
   Ultra-low latency, massive connectivity, network slicing, beamforming, mmWave.
 
 - **Timing Advance**  
-  Synchronizes uplink transmission delays from different distances.
+  Synchronizes uplink transmission delays from different distances. This means that the TA value changes for each 550-meter change in the range between a mobile and the base station. This limit of 63 × 550 meters is the maximum 35 kilometers that a device can be from a base station and is the upper bound on cell placement distance.
+  ![image](https://github.com/user-attachments/assets/1fee55b7-a378-490a-93d6-81b487cee051)
+
 
 - **TDMA, CDMA, OFDMA**  
   - **TDMA**: Time slots per user  

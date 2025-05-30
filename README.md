@@ -75,7 +75,7 @@ A unique ID for each individual cell within a location area.
 - **MSC (Mobile Switching Center)**  
   Routes voice/data calls, SMS, and manages registration and handovers in circuit-switched networks.
 
-  - **AUC (Authentication Center)**  
+- **AUC (Authentication Center)**  
   Validates SIM card credentials using IMSI and authentication algorithms.
 
 - **HLR (Home Location Register)**  
